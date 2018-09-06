@@ -1,4 +1,4 @@
-State_2c_Geonode
+State-Geonode
 ========================
 
 This repo contains the static and template files for the 2C GeoNode as well as the configuration files needed to install GeoNode using the [ansible-geonode scripts](https://github.com/GeoNode/ansible-geonode).
