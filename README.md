@@ -1,7 +1,7 @@
 State-Geonode
 ========================
 
-This repo contains the static and template files for the 2C GeoNode as well as the configuration files needed to install GeoNode using the [ansible-geonode scripts](https://github.com/GeoNode/ansible-geonode).
+This repo contains the static and template files for the State GeoNode as well as the configuration files needed to install GeoNode using the [ansible-geonode scripts](https://github.com/GeoNode/ansible-geonode).
 
 ## Steps for Installing GeoNode on Amazon AWS
 
